@@ -1,6 +1,5 @@
-# OSS RISC-V development board
+# OSS RISC-V evaluation board
+
 ```
-This is a development board for the RISC-V ISA.
+Evaluation board for AllWinner's RISC-V 64 SoC D1-H
 ```
-[]: # Language: markdown
-[]: # Path: README.md
